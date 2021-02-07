@@ -1,0 +1,25 @@
+/* your styles go here */
+.albumimg{
+    height: 122px;
+    width: 122px;
+    border-radius: 60px;
+}
+#dropdowncontent{
+    /*width: 100%;*/
+    display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0,123,255,0.2);
+    width: 84px;
+    border: 1px solid #fff;
+    border-top: none;
+    background-color: #000;
+    right: 5%;
+    text-align: center;
+}
+#dropdowncontent ul{
+    list-style-type: none;
+    margin-left: -43%;
+}
+a{
+    cursor: pointer;
+}

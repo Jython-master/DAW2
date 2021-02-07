@@ -1,0 +1,17 @@
+#dropdowncontent{
+    /*width: 100%;*/
+    display: none;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0,123,255,0.2);
+    width: 84px;
+    border: 1px solid #fff;
+    border-top: none;
+    margin-left: 0%;
+    background-color: #000;
+    right: 5%;
+    text-align: center;
+    margin-right: 12%;
+}
+#dropdowncontent:hover{
+    display: block
+}
